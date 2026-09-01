@@ -1,0 +1,501 @@
+employee_code,first_name,last_name,email,job_title,department_id,location,employment_status
+EMP-0001,Taylor,Miller,taylor.miller@juradotech.com,Business Development Representative,4,"Arlington, VA",Active
+EMP-0002,Maya,Ramirez,maya.ramirez@juradotech.com,Operations Specialist,6,"Alexandria, VA",Active
+EMP-0003,Gabriel,Gonzalez,gabriel.gonzalez@juradotech.com,Network Technician,1,"Washington, DC",Active
+EMP-0004,Alex,King,alex.king@juradotech.com,Finance Coordinator,3,"Silver Spring, MD",Active
+EMP-0005,Reese,White,reese.white@juradotech.com,Application Support Analyst,1,"Washington, DC",Active
+EMP-0006,Sofia,Flores,sofia.flores@juradotech.com,HR Specialist,2,"Silver Spring, MD",Active
+EMP-0007,Blake,Allen,blake.allen@juradotech.com,Logistics Specialist,6,"Silver Spring, MD",Active
+EMP-0008,Daniela,Jackson,daniela.jackson@juradotech.com,Business Development Representative,4,"Bethesda, MD",Active
+EMP-0009,Valeria,Lopez,valeria.lopez@juradotech.com,HR Analyst,2,"Alexandria, VA",Active
+EMP-0010,Nicolas,Smith,nicolas.smith@juradotech.com,Logistics Specialist,6,"Rockville, MD",Active
+EMP-0011,Julian,Hill,julian.hill@juradotech.com,Customer Success Specialist,7,"Arlington, VA",Active
+EMP-0012,Skyler,Allen,skyler.allen@juradotech.com,Service Coordinator,7,"Silver Spring, MD",Active
+EMP-0013,Riley,Jackson,riley.jackson@juradotech.com,HR Analyst,2,"Silver Spring, MD",Active
+EMP-0014,Sofia,Garcia,sofia.garcia@juradotech.com,Account Executive,4,"Silver Spring, MD",Active
+EMP-0015,Reese,Martinez,reese.martinez@juradotech.com,Customer Service Representative,7,"Washington, DC",Active
+EMP-0016,Mateo,Flores,mateo.flores@juradotech.com,HR Coordinator,2,"Arlington, VA",Active
+EMP-0017,Gabriel,Gonzalez,gabriel.gonzalez2@juradotech.com,Project Coordinator,6,"Arlington, VA",Active
+EMP-0018,Parker,Smith,parker.smith@juradotech.com,Sales Representative,4,"Arlington, VA",Active
+EMP-0019,Diego,Robinson,diego.robinson@juradotech.com,Sales Representative,4,"Alexandria, VA",Active
+EMP-0020,Avery,Robinson,avery.robinson@juradotech.com,Content Coordinator,5,"Arlington, VA",Active
+EMP-0021,Nicolas,Hill,nicolas.hill@juradotech.com,Customer Success Specialist,7,"Arlington, VA",Active
+EMP-0022,Lucas,Ramirez,lucas.ramirez@juradotech.com,Operations Specialist,6,"Arlington, VA",Active
+EMP-0023,Mateo,Lewis,mateo.lewis@juradotech.com,Marketing Analyst,5,"Bethesda, MD",Active
+EMP-0024,Rowan,King,rowan.king@juradotech.com,Project Coordinator,6,"Silver Spring, MD",Active
+EMP-0025,Elena,Jones,elena.jones@juradotech.com,Network Technician,1,"Bethesda, MD",Active
+EMP-0026,Maya,Wright,maya.wright@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0027,Valeria,Martinez,valeria.martinez@juradotech.com,Account Executive,4,"Washington, DC",Active
+EMP-0028,Sofia,Wright,sofia.wright@juradotech.com,Sales Analyst,4,"Arlington, VA",Active
+EMP-0029,Natalia,Harris,natalia.harris@juradotech.com,Business Development Representative,4,"Silver Spring, MD",Active
+EMP-0030,Gabriel,Harris,gabriel.harris@juradotech.com,Sales Analyst,4,"Washington, DC",Active
+EMP-0031,Blake,Harris,blake.harris@juradotech.com,Billing Analyst,3,"Alexandria, VA",Active
+EMP-0032,Adrian,Hill,adrian.hill@juradotech.com,Account Executive,4,"Arlington, VA",Active
+EMP-0033,Lucia,Young,lucia.young@juradotech.com,Sales Representative,4,"Arlington, VA",Active
+EMP-0034,Daniela,Hernandez,daniela.hernandez@juradotech.com,Application Support Analyst,1,"Bethesda, MD",Inactive
+EMP-0035,Adrian,Johnson,adrian.johnson@juradotech.com,Digital Marketing Specialist,5,"Alexandria, VA",Active
+EMP-0036,Jordan,Garcia,jordan.garcia@juradotech.com,Application Support Analyst,1,"Bethesda, MD",Active
+EMP-0037,Quinn,Brown,quinn.brown@juradotech.com,Customer Success Specialist,7,"Arlington, VA",Active
+EMP-0038,Gabriela,Lee,gabriela.lee@juradotech.com,HR Specialist,2,"Arlington, VA",Active
+EMP-0039,Natalia,Taylor,natalia.taylor@juradotech.com,Sales Representative,4,"Arlington, VA",Active
+EMP-0040,Adrian,Brown,adrian.brown@juradotech.com,Accountant,3,"Bethesda, MD",Active
+EMP-0041,Taylor,Johnson,taylor.johnson@juradotech.com,Operations Coordinator,6,"Bethesda, MD",Active
+EMP-0042,Marco,Martinez,marco.martinez@juradotech.com,Account Executive,4,"Bethesda, MD",Active
+EMP-0043,Avery,Torres,avery.torres@juradotech.com,Accounts Payable Specialist,3,"Arlington, VA",Active
+EMP-0044,Camila,Hernandez,camila.hernandez@juradotech.com,Business Development Representative,4,"Alexandria, VA",Inactive
+EMP-0045,Avery,Hernandez,avery.hernandez@juradotech.com,Customer Success Specialist,7,"Washington, DC",Active
+EMP-0046,Blake,Torres,blake.torres@juradotech.com,Billing Analyst,3,"Arlington, VA",Active
+EMP-0047,Reese,Jones,reese.jones@juradotech.com,Finance Coordinator,3,"Silver Spring, MD",Active
+EMP-0048,Emerson,Miller,emerson.miller@juradotech.com,Logistics Specialist,6,"Silver Spring, MD",Active
+EMP-0049,Avery,Torres,avery.torres2@juradotech.com,Sales Representative,4,"Rockville, MD",Active
+EMP-0050,Camila,Jones,camila.jones@juradotech.com,Business Development Representative,4,"Silver Spring, MD",Active
+EMP-0051,Natalia,Young,natalia.young@juradotech.com,HR Coordinator,2,"Arlington, VA",Inactive
+EMP-0052,Gabriela,Martinez,gabriela.martinez@juradotech.com,Benefits Coordinator,2,"Bethesda, MD",Active
+EMP-0053,Rowan,Flores,rowan.flores@juradotech.com,Client Support Specialist,7,"Arlington, VA",Active
+EMP-0054,Julian,Moore,julian.moore@juradotech.com,Marketing Analyst,5,"Bethesda, MD",Active
+EMP-0055,Riley,Moore,riley.moore@juradotech.com,Application Support Analyst,1,"Bethesda, MD",Active
+EMP-0056,Gabriel,Flores,gabriel.flores@juradotech.com,Sales Analyst,4,"Rockville, MD",Active
+EMP-0057,Maya,Lopez,maya.lopez@juradotech.com,Digital Marketing Specialist,5,"Bethesda, MD",Active
+EMP-0058,Hayden,Perez,hayden.perez@juradotech.com,Accountant,3,"Alexandria, VA",Active
+EMP-0059,Rowan,Scott,rowan.scott@juradotech.com,Financial Analyst,3,"Alexandria, VA",Active
+EMP-0060,Riley,Thomas,riley.thomas@juradotech.com,Project Coordinator,6,"Arlington, VA",Active
+EMP-0061,Emerson,Walker,emerson.walker@juradotech.com,Sales Analyst,4,"Arlington, VA",Active
+EMP-0062,Riley,Jackson,riley.jackson2@juradotech.com,Operations Coordinator,6,"Arlington, VA",Active
+EMP-0063,Blake,Nguyen,blake.nguyen@juradotech.com,Network Technician,1,"Arlington, VA",Active
+EMP-0064,Isabella,Ramirez,isabella.ramirez@juradotech.com,Business Development Representative,4,"Rockville, MD",Active
+EMP-0065,Gabriela,Moore,gabriela.moore@juradotech.com,Network Technician,1,"Rockville, MD",Active
+EMP-0066,Reese,Lee,reese.lee@juradotech.com,HR Coordinator,2,"Silver Spring, MD",Active
+EMP-0067,Quinn,Gonzalez,quinn.gonzalez@juradotech.com,Content Coordinator,5,"Silver Spring, MD",Active
+EMP-0068,Julian,King,julian.king@juradotech.com,Business Development Representative,4,"Rockville, MD",Inactive
+EMP-0069,Reese,Jackson,reese.jackson@juradotech.com,Operations Coordinator,6,"Rockville, MD",Active
+EMP-0070,Alex,Wright,alex.wright@juradotech.com,Support Representative,7,"Rockville, MD",Active
+EMP-0071,Morgan,Scott,morgan.scott@juradotech.com,HR Specialist,2,"Silver Spring, MD",Active
+EMP-0072,Sebastian,Miller,sebastian.miller@juradotech.com,Customer Service Representative,7,"Alexandria, VA",Active
+EMP-0073,Mateo,Lewis,mateo.lewis2@juradotech.com,Marketing Analyst,5,"Bethesda, MD",Inactive
+EMP-0074,Hayden,Walker,hayden.walker@juradotech.com,Operations Analyst,6,"Washington, DC",Active
+EMP-0075,Casey,Torres,casey.torres@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0076,Gabriel,Martin,gabriel.martin@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0077,Natalia,Hill,natalia.hill@juradotech.com,Business Development Representative,4,"Alexandria, VA",Active
+EMP-0078,Diego,Harris,diego.harris@juradotech.com,Project Coordinator,6,"Arlington, VA",Active
+EMP-0079,Julian,Ramirez,julian.ramirez@juradotech.com,Sales Coordinator,4,"Alexandria, VA",Active
+EMP-0080,Marco,Miller,marco.miller@juradotech.com,Accounts Payable Specialist,3,"Silver Spring, MD",Active
+EMP-0081,Riley,Hernandez,riley.hernandez@juradotech.com,Systems Analyst,1,"Bethesda, MD",Active
+EMP-0082,Jamie,Smith,jamie.smith@juradotech.com,Application Support Analyst,1,"Arlington, VA",Active
+EMP-0083,Mateo,Jackson,mateo.jackson@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0084,Elliot,Robinson,elliot.robinson@juradotech.com,Sales Representative,4,"Silver Spring, MD",Active
+EMP-0085,Hayden,Nguyen,hayden.nguyen@juradotech.com,Support Representative,7,"Arlington, VA",Active
+EMP-0086,Logan,Martinez,logan.martinez@juradotech.com,Customer Success Specialist,7,"Bethesda, MD",Active
+EMP-0087,Jamie,Martin,jamie.martin@juradotech.com,Operations Specialist,6,"Silver Spring, MD",Active
+EMP-0088,Elliot,Lewis,elliot.lewis@juradotech.com,HR Coordinator,2,"Arlington, VA",Active
+EMP-0089,Daniela,Moore,daniela.moore@juradotech.com,Client Support Specialist,7,"Alexandria, VA",Active
+EMP-0090,Riley,Hill,riley.hill@juradotech.com,IT Support Specialist,1,"Arlington, VA",Active
+EMP-0091,Leo,Taylor,leo.taylor@juradotech.com,HR Coordinator,2,"Washington, DC",Active
+EMP-0092,Gabriel,Nguyen,gabriel.nguyen@juradotech.com,Sales Representative,4,"Silver Spring, MD",Active
+EMP-0093,Gabriel,Williams,gabriel.williams@juradotech.com,Content Coordinator,5,"Arlington, VA",Active
+EMP-0094,Elena,Moore,elena.moore@juradotech.com,Account Executive,4,"Alexandria, VA",Active
+EMP-0095,Sebastian,Garcia,sebastian.garcia@juradotech.com,Sales Analyst,4,"Rockville, MD",Active
+EMP-0096,Maya,Miller,maya.miller@juradotech.com,Recruiter,2,"Rockville, MD",Active
+EMP-0097,Sebastian,Jackson,sebastian.jackson@juradotech.com,Billing Analyst,3,"Alexandria, VA",Active
+EMP-0098,Riley,Lee,riley.lee@juradotech.com,Customer Success Specialist,7,"Rockville, MD",Active
+EMP-0099,Daniela,Allen,daniela.allen@juradotech.com,Operations Analyst,6,"Silver Spring, MD",Active
+EMP-0100,Gabriela,Clark,gabriela.clark@juradotech.com,Financial Analyst,3,"Bethesda, MD",Active
+EMP-0101,Marco,Young,marco.young@juradotech.com,Sales Analyst,4,"Washington, DC",Active
+EMP-0102,Nicolas,Rodriguez,nicolas.rodriguez@juradotech.com,Logistics Specialist,6,"Arlington, VA",Active
+EMP-0103,Sebastian,Davis,sebastian.davis@juradotech.com,Sales Representative,4,"Silver Spring, MD",Active
+EMP-0104,Emerson,Hernandez,emerson.hernandez@juradotech.com,Logistics Specialist,6,"Alexandria, VA",Active
+EMP-0105,Natalia,Garcia,natalia.garcia@juradotech.com,Recruiter,2,"Washington, DC",Active
+EMP-0106,Avery,Martinez,avery.martinez@juradotech.com,Project Coordinator,6,"Silver Spring, MD",Active
+EMP-0107,Rowan,Clark,rowan.clark@juradotech.com,Sales Analyst,4,"Arlington, VA",Active
+EMP-0108,Nicolas,Martinez,nicolas.martinez@juradotech.com,Project Coordinator,6,"Bethesda, MD",Active
+EMP-0109,Lucas,Rodriguez,lucas.rodriguez@juradotech.com,Financial Analyst,3,"Rockville, MD",Active
+EMP-0110,Natalia,Perez,natalia.perez@juradotech.com,Operations Specialist,6,"Rockville, MD",Active
+EMP-0111,Elliot,Martin,elliot.martin@juradotech.com,IT Analyst,1,"Alexandria, VA",Inactive
+EMP-0112,Sebastian,Martinez,sebastian.martinez@juradotech.com,Project Coordinator,6,"Alexandria, VA",Active
+EMP-0113,Sofia,Scott,sofia.scott@juradotech.com,HR Analyst,2,"Arlington, VA",Active
+EMP-0114,Maya,Gonzalez,maya.gonzalez@juradotech.com,Accounts Payable Specialist,3,"Alexandria, VA",Active
+EMP-0115,Natalia,Williams,natalia.williams@juradotech.com,Logistics Specialist,6,"Silver Spring, MD",Active
+EMP-0116,Valeria,Harris,valeria.harris@juradotech.com,Support Representative,7,"Arlington, VA",Inactive
+EMP-0117,Drew,Allen,drew.allen@juradotech.com,Client Support Specialist,7,"Rockville, MD",Active
+EMP-0118,Elena,Miller,elena.miller@juradotech.com,Finance Coordinator,3,"Arlington, VA",Active
+EMP-0119,Parker,Clark,parker.clark@juradotech.com,Systems Analyst,1,"Washington, DC",Active
+EMP-0120,Hayden,Perez,hayden.perez2@juradotech.com,Business Development Representative,4,"Silver Spring, MD",Active
+EMP-0121,Riley,Perez,riley.perez@juradotech.com,IT Analyst,1,"Arlington, VA",Active
+EMP-0122,Sebastian,Wright,sebastian.wright@juradotech.com,Marketing Specialist,5,"Alexandria, VA",Active
+EMP-0123,Elliot,Anderson,elliot.anderson@juradotech.com,Customer Service Representative,7,"Arlington, VA",Inactive
+EMP-0124,Cameron,Lewis,cameron.lewis@juradotech.com,Account Executive,4,"Silver Spring, MD",Active
+EMP-0125,Jordan,Williams,jordan.williams@juradotech.com,Marketing Analyst,5,"Washington, DC",Active
+EMP-0126,Camila,Ramirez,camila.ramirez@juradotech.com,Support Representative,7,"Bethesda, MD",Active
+EMP-0127,Gabriel,Lopez,gabriel.lopez@juradotech.com,Content Coordinator,5,"Bethesda, MD",Active
+EMP-0128,Valeria,Flores,valeria.flores@juradotech.com,Account Executive,4,"Arlington, VA",Active
+EMP-0129,Parker,Anderson,parker.anderson@juradotech.com,Billing Analyst,3,"Silver Spring, MD",Active
+EMP-0130,Hayden,Smith,hayden.smith@juradotech.com,Project Coordinator,6,"Rockville, MD",Active
+EMP-0131,Jamie,Jones,jamie.jones@juradotech.com,Project Coordinator,6,"Rockville, MD",Inactive
+EMP-0132,Blake,Ramirez,blake.ramirez@juradotech.com,Network Technician,1,"Arlington, VA",Active
+EMP-0133,Reese,Harris,reese.harris@juradotech.com,Application Support Analyst,1,"Washington, DC",Active
+EMP-0134,Gabriel,Thompson,gabriel.thompson@juradotech.com,Client Support Specialist,7,"Rockville, MD",Inactive
+EMP-0135,Elliot,Johnson,elliot.johnson@juradotech.com,Digital Marketing Specialist,5,"Rockville, MD",Active
+EMP-0136,Morgan,Hill,morgan.hill@juradotech.com,Benefits Coordinator,2,"Rockville, MD",Active
+EMP-0137,Logan,Hill,logan.hill@juradotech.com,Marketing Analyst,5,"Bethesda, MD",Active
+EMP-0138,Marco,Taylor,marco.taylor@juradotech.com,Operations Coordinator,6,"Silver Spring, MD",Active
+EMP-0139,Taylor,Martin,taylor.martin@juradotech.com,Project Coordinator,6,"Washington, DC",Active
+EMP-0140,Drew,Garcia,drew.garcia@juradotech.com,Customer Success Specialist,7,"Rockville, MD",Active
+EMP-0141,Quinn,Gonzalez,quinn.gonzalez2@juradotech.com,Accounts Payable Specialist,3,"Alexandria, VA",Active
+EMP-0142,Camila,King,camila.king@juradotech.com,Client Support Specialist,7,"Rockville, MD",Active
+EMP-0143,Hayden,Walker,hayden.walker2@juradotech.com,HR Specialist,2,"Silver Spring, MD",Active
+EMP-0144,Avery,Robinson,avery.robinson2@juradotech.com,Sales Representative,4,"Bethesda, MD",Active
+EMP-0145,Logan,Sanchez,logan.sanchez@juradotech.com,Finance Coordinator,3,"Rockville, MD",Active
+EMP-0146,Daniela,Smith,daniela.smith@juradotech.com,Accountant,3,"Alexandria, VA",Active
+EMP-0147,Camila,Taylor,camila.taylor@juradotech.com,Client Support Specialist,7,"Arlington, VA",Active
+EMP-0148,Camila,Miller,camila.miller@juradotech.com,Content Coordinator,5,"Arlington, VA",Active
+EMP-0149,Nicolas,Lee,nicolas.lee@juradotech.com,Communications Coordinator,5,"Bethesda, MD",Active
+EMP-0150,Gabriela,Martin,gabriela.martin@juradotech.com,Service Coordinator,7,"Washington, DC",Active
+EMP-0151,Taylor,Martin,taylor.martin2@juradotech.com,Sales Analyst,4,"Washington, DC",Active
+EMP-0152,Adrian,Rodriguez,adrian.rodriguez@juradotech.com,Billing Analyst,3,"Arlington, VA",Active
+EMP-0153,Adrian,Clark,adrian.clark@juradotech.com,Client Support Specialist,7,"Silver Spring, MD",Active
+EMP-0154,Natalia,Miller,natalia.miller@juradotech.com,Digital Marketing Specialist,5,"Alexandria, VA",Active
+EMP-0155,Rowan,Williams,rowan.williams@juradotech.com,Logistics Specialist,6,"Bethesda, MD",Active
+EMP-0156,Emerson,White,emerson.white@juradotech.com,Customer Service Representative,7,"Silver Spring, MD",Active
+EMP-0157,Isabella,Brown,isabella.brown@juradotech.com,Project Coordinator,6,"Rockville, MD",Active
+EMP-0158,Avery,Robinson,avery.robinson3@juradotech.com,IT Support Specialist,1,"Silver Spring, MD",Active
+EMP-0159,Leo,Johnson,leo.johnson@juradotech.com,Customer Service Representative,7,"Rockville, MD",Active
+EMP-0160,Drew,Torres,drew.torres@juradotech.com,Systems Analyst,1,"Washington, DC",Active
+EMP-0161,Nicolas,Wilson,nicolas.wilson@juradotech.com,Finance Coordinator,3,"Bethesda, MD",Active
+EMP-0162,Logan,Perez,logan.perez@juradotech.com,Account Executive,4,"Alexandria, VA",Active
+EMP-0163,Parker,Rodriguez,parker.rodriguez@juradotech.com,Communications Coordinator,5,"Rockville, MD",Active
+EMP-0164,Avery,Johnson,avery.johnson@juradotech.com,Content Coordinator,5,"Washington, DC",Active
+EMP-0165,Emerson,Nguyen,emerson.nguyen@juradotech.com,Logistics Specialist,6,"Washington, DC",Active
+EMP-0166,Morgan,Rodriguez,morgan.rodriguez@juradotech.com,Digital Marketing Specialist,5,"Alexandria, VA",Active
+EMP-0167,Casey,Walker,casey.walker@juradotech.com,Billing Analyst,3,"Rockville, MD",Active
+EMP-0168,Cameron,Lewis,cameron.lewis2@juradotech.com,Business Development Representative,4,"Bethesda, MD",Active
+EMP-0169,Taylor,King,taylor.king@juradotech.com,Logistics Specialist,6,"Arlington, VA",Active
+EMP-0170,Jordan,Brown,jordan.brown@juradotech.com,Service Coordinator,7,"Arlington, VA",Active
+EMP-0171,Cameron,Young,cameron.young@juradotech.com,Sales Analyst,4,"Washington, DC",Active
+EMP-0172,Maya,Hill,maya.hill@juradotech.com,Account Executive,4,"Washington, DC",Active
+EMP-0173,Marco,Nguyen,marco.nguyen@juradotech.com,Client Support Specialist,7,"Silver Spring, MD",Active
+EMP-0174,Leo,King,leo.king@juradotech.com,Network Technician,1,"Arlington, VA",Active
+EMP-0175,Lucia,Miller,lucia.miller@juradotech.com,HR Coordinator,2,"Silver Spring, MD",Active
+EMP-0176,Nicolas,Wilson,nicolas.wilson2@juradotech.com,Benefits Coordinator,2,"Arlington, VA",Active
+EMP-0177,Natalia,Perez,natalia.perez2@juradotech.com,Digital Marketing Specialist,5,"Arlington, VA",Active
+EMP-0178,Cameron,Lee,cameron.lee@juradotech.com,Application Support Analyst,1,"Rockville, MD",Active
+EMP-0179,Camila,Martinez,camila.martinez@juradotech.com,Project Coordinator,6,"Washington, DC",Active
+EMP-0180,Riley,Garcia,riley.garcia@juradotech.com,Service Coordinator,7,"Washington, DC",Active
+EMP-0181,Camila,Rodriguez,camila.rodriguez@juradotech.com,Communications Coordinator,5,"Washington, DC",Active
+EMP-0182,Nicolas,Scott,nicolas.scott@juradotech.com,Sales Coordinator,4,"Silver Spring, MD",Active
+EMP-0183,Isabella,Ramirez,isabella.ramirez2@juradotech.com,Sales Representative,4,"Rockville, MD",Active
+EMP-0184,Isabella,Miller,isabella.miller@juradotech.com,Client Support Specialist,7,"Alexandria, VA",Active
+EMP-0185,Mateo,Anderson,mateo.anderson@juradotech.com,Customer Service Representative,7,"Rockville, MD",Active
+EMP-0186,Camila,Davis,camila.davis@juradotech.com,HR Specialist,2,"Alexandria, VA",Active
+EMP-0187,Lucia,Scott,lucia.scott@juradotech.com,HR Analyst,2,"Alexandria, VA",Active
+EMP-0188,Nicolas,Johnson,nicolas.johnson@juradotech.com,Client Support Specialist,7,"Silver Spring, MD",Active
+EMP-0189,Rowan,Johnson,rowan.johnson@juradotech.com,Recruiter,2,"Rockville, MD",Active
+EMP-0190,Blake,Perez,blake.perez@juradotech.com,Sales Coordinator,4,"Washington, DC",Active
+EMP-0191,Parker,Torres,parker.torres@juradotech.com,Project Coordinator,6,"Washington, DC",Active
+EMP-0192,Jordan,Garcia,jordan.garcia2@juradotech.com,Communications Coordinator,5,"Bethesda, MD",Active
+EMP-0193,Gabriela,Perez,gabriela.perez@juradotech.com,Operations Coordinator,6,"Rockville, MD",Active
+EMP-0194,Maya,Torres,maya.torres@juradotech.com,Client Support Specialist,7,"Washington, DC",Active
+EMP-0195,Parker,Hernandez,parker.hernandez@juradotech.com,Finance Coordinator,3,"Washington, DC",Active
+EMP-0196,Rowan,Lewis,rowan.lewis@juradotech.com,Sales Analyst,4,"Arlington, VA",Active
+EMP-0197,Natalia,Moore,natalia.moore@juradotech.com,Systems Analyst,1,"Alexandria, VA",Active
+EMP-0198,Lucia,Davis,lucia.davis@juradotech.com,HR Specialist,2,"Silver Spring, MD",Active
+EMP-0199,Sebastian,King,sebastian.king@juradotech.com,Sales Coordinator,4,"Washington, DC",Active
+EMP-0200,Leo,Brown,leo.brown@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0201,Skyler,Rodriguez,skyler.rodriguez@juradotech.com,Marketing Analyst,5,"Rockville, MD",Active
+EMP-0202,Alex,Young,alex.young@juradotech.com,Digital Marketing Specialist,5,"Bethesda, MD",Active
+EMP-0203,Adrian,Anderson,adrian.anderson@juradotech.com,Operations Specialist,6,"Alexandria, VA",Active
+EMP-0204,Isabella,Jones,isabella.jones@juradotech.com,Service Coordinator,7,"Silver Spring, MD",Active
+EMP-0205,Jordan,Robinson,jordan.robinson@juradotech.com,Sales Representative,4,"Rockville, MD",Active
+EMP-0206,Gabriel,Sanchez,gabriel.sanchez@juradotech.com,Service Coordinator,7,"Rockville, MD",Active
+EMP-0207,Jordan,Lee,jordan.lee@juradotech.com,Accounts Payable Specialist,3,"Alexandria, VA",Active
+EMP-0208,Camila,Garcia,camila.garcia@juradotech.com,Application Support Analyst,1,"Washington, DC",Active
+EMP-0209,Julian,Sanchez,julian.sanchez@juradotech.com,Business Development Representative,4,"Washington, DC",Active
+EMP-0210,Blake,Perez,blake.perez2@juradotech.com,Accounts Payable Specialist,3,"Rockville, MD",Active
+EMP-0211,Casey,Allen,casey.allen@juradotech.com,Operations Analyst,6,"Alexandria, VA",Active
+EMP-0212,Isabella,Thompson,isabella.thompson@juradotech.com,Operations Coordinator,6,"Bethesda, MD",Active
+EMP-0213,Hayden,Gonzalez,hayden.gonzalez@juradotech.com,Support Representative,7,"Alexandria, VA",Active
+EMP-0214,Casey,Lopez,casey.lopez@juradotech.com,Digital Marketing Specialist,5,"Arlington, VA",Active
+EMP-0215,Julian,Lewis,julian.lewis@juradotech.com,Client Support Specialist,7,"Silver Spring, MD",Active
+EMP-0216,Marco,Lee,marco.lee@juradotech.com,Logistics Specialist,6,"Bethesda, MD",Active
+EMP-0217,Mateo,Lewis,mateo.lewis3@juradotech.com,Sales Coordinator,4,"Rockville, MD",Active
+EMP-0218,Isabella,Allen,isabella.allen@juradotech.com,Customer Service Representative,7,"Rockville, MD",Active
+EMP-0219,Taylor,Brown,taylor.brown@juradotech.com,Customer Success Specialist,7,"Rockville, MD",Active
+EMP-0220,Riley,Flores,riley.flores@juradotech.com,IT Analyst,1,"Alexandria, VA",Active
+EMP-0221,Julian,Scott,julian.scott@juradotech.com,Sales Representative,4,"Arlington, VA",Active
+EMP-0222,Gabriel,Gonzalez,gabriel.gonzalez3@juradotech.com,Customer Success Specialist,7,"Alexandria, VA",Active
+EMP-0223,Parker,Brown,parker.brown@juradotech.com,Benefits Coordinator,2,"Washington, DC",Active
+EMP-0224,Sofia,Garcia,sofia.garcia2@juradotech.com,Operations Specialist,6,"Silver Spring, MD",Active
+EMP-0225,Emerson,Lewis,emerson.lewis@juradotech.com,Billing Analyst,3,"Alexandria, VA",Active
+EMP-0226,Jamie,White,jamie.white@juradotech.com,Customer Success Specialist,7,"Rockville, MD",Active
+EMP-0227,Sofia,Hill,sofia.hill@juradotech.com,IT Support Specialist,1,"Silver Spring, MD",Active
+EMP-0228,Casey,Perez,casey.perez@juradotech.com,Operations Analyst,6,"Alexandria, VA",Active
+EMP-0229,Elliot,Taylor,elliot.taylor@juradotech.com,Business Development Representative,4,"Bethesda, MD",Active
+EMP-0230,Julian,Martinez,julian.martinez@juradotech.com,Customer Success Specialist,7,"Rockville, MD",Inactive
+EMP-0231,Daniela,Rodriguez,daniela.rodriguez@juradotech.com,Client Support Specialist,7,"Silver Spring, MD",Active
+EMP-0232,Blake,Scott,blake.scott@juradotech.com,Service Coordinator,7,"Silver Spring, MD",Active
+EMP-0233,Drew,King,drew.king@juradotech.com,Sales Representative,4,"Silver Spring, MD",Active
+EMP-0234,Lucas,White,lucas.white@juradotech.com,Customer Service Representative,7,"Rockville, MD",Active
+EMP-0235,Skyler,Perez,skyler.perez@juradotech.com,Billing Analyst,3,"Bethesda, MD",Active
+EMP-0236,Drew,Martinez,drew.martinez@juradotech.com,Operations Analyst,6,"Rockville, MD",Active
+EMP-0237,Cameron,Allen,cameron.allen@juradotech.com,HR Analyst,2,"Silver Spring, MD",Active
+EMP-0238,Taylor,Perez,taylor.perez@juradotech.com,Client Support Specialist,7,"Bethesda, MD",Active
+EMP-0239,Parker,Hernandez,parker.hernandez2@juradotech.com,Account Executive,4,"Silver Spring, MD",Active
+EMP-0240,Jamie,Lewis,jamie.lewis@juradotech.com,Sales Representative,4,"Arlington, VA",Active
+EMP-0241,Emerson,Lewis,emerson.lewis2@juradotech.com,Client Support Specialist,7,"Rockville, MD",Active
+EMP-0242,Elena,Anderson,elena.anderson@juradotech.com,IT Analyst,1,"Bethesda, MD",Active
+EMP-0243,Mateo,Gonzalez,mateo.gonzalez@juradotech.com,Accountant,3,"Silver Spring, MD",Active
+EMP-0244,Elena,Robinson,elena.robinson@juradotech.com,Sales Coordinator,4,"Arlington, VA",Active
+EMP-0245,Natalia,Hernandez,natalia.hernandez@juradotech.com,Account Executive,4,"Alexandria, VA",Active
+EMP-0246,Hayden,Brown,hayden.brown@juradotech.com,Sales Analyst,4,"Rockville, MD",Active
+EMP-0247,Cameron,King,cameron.king@juradotech.com,HR Coordinator,2,"Rockville, MD",Active
+EMP-0248,Jamie,Moore,jamie.moore@juradotech.com,Service Coordinator,7,"Alexandria, VA",Active
+EMP-0249,Lucia,Garcia,lucia.garcia@juradotech.com,Accounts Payable Specialist,3,"Arlington, VA",Active
+EMP-0250,Jordan,Clark,jordan.clark@juradotech.com,Financial Analyst,3,"Arlington, VA",Active
+EMP-0251,Emerson,Harris,emerson.harris@juradotech.com,Sales Representative,4,"Rockville, MD",Active
+EMP-0252,Maya,Miller,maya.miller2@juradotech.com,Customer Success Specialist,7,"Bethesda, MD",Active
+EMP-0253,Elliot,Walker,elliot.walker@juradotech.com,Support Representative,7,"Silver Spring, MD",Active
+EMP-0254,Marco,Smith,marco.smith@juradotech.com,Customer Service Representative,7,"Washington, DC",Active
+EMP-0255,Parker,Scott,parker.scott@juradotech.com,Client Support Specialist,7,"Alexandria, VA",Active
+EMP-0256,Elliot,Thomas,elliot.thomas@juradotech.com,Accountant,3,"Washington, DC",Active
+EMP-0257,Natalia,Flores,natalia.flores@juradotech.com,Digital Marketing Specialist,5,"Washington, DC",Active
+EMP-0258,Sebastian,Hill,sebastian.hill@juradotech.com,Client Support Specialist,7,"Washington, DC",Active
+EMP-0259,Gabriel,Thomas,gabriel.thomas@juradotech.com,Accounts Payable Specialist,3,"Rockville, MD",Active
+EMP-0260,Marco,Thompson,marco.thompson@juradotech.com,Content Coordinator,5,"Alexandria, VA",Active
+EMP-0261,Riley,King,riley.king@juradotech.com,Sales Coordinator,4,"Washington, DC",Active
+EMP-0262,Adrian,Allen,adrian.allen@juradotech.com,Operations Specialist,6,"Alexandria, VA",Active
+EMP-0263,Mateo,Williams,mateo.williams@juradotech.com,Application Support Analyst,1,"Rockville, MD",Active
+EMP-0264,Jordan,Thompson,jordan.thompson@juradotech.com,Marketing Specialist,5,"Rockville, MD",Active
+EMP-0265,Cameron,Nguyen,cameron.nguyen@juradotech.com,Network Technician,1,"Bethesda, MD",Active
+EMP-0266,Adrian,Perez,adrian.perez@juradotech.com,Support Representative,7,"Silver Spring, MD",Active
+EMP-0267,Mateo,Lopez,mateo.lopez@juradotech.com,Support Representative,7,"Washington, DC",Active
+EMP-0268,Gabriela,Williams,gabriela.williams@juradotech.com,Logistics Specialist,6,"Bethesda, MD",Active
+EMP-0269,Reese,Williams,reese.williams@juradotech.com,Logistics Specialist,6,"Rockville, MD",Active
+EMP-0270,Adrian,Walker,adrian.walker@juradotech.com,Network Technician,1,"Washington, DC",Active
+EMP-0271,Reese,Jackson,reese.jackson2@juradotech.com,Sales Coordinator,4,"Washington, DC",Active
+EMP-0272,Sofia,Moore,sofia.moore@juradotech.com,Operations Analyst,6,"Rockville, MD",Active
+EMP-0273,Daniela,Lewis,daniela.lewis@juradotech.com,Billing Analyst,3,"Rockville, MD",Inactive
+EMP-0274,Sebastian,Young,sebastian.young@juradotech.com,Logistics Specialist,6,"Alexandria, VA",Active
+EMP-0275,Riley,Ramirez,riley.ramirez@juradotech.com,HR Coordinator,2,"Arlington, VA",Active
+EMP-0276,Quinn,Wright,quinn.wright@juradotech.com,Sales Coordinator,4,"Rockville, MD",Active
+EMP-0277,Maya,Jackson,maya.jackson@juradotech.com,Marketing Analyst,5,"Arlington, VA",Active
+EMP-0278,Lucia,Hernandez,lucia.hernandez@juradotech.com,Sales Analyst,4,"Rockville, MD",Active
+EMP-0279,Isabella,Flores,isabella.flores@juradotech.com,Project Coordinator,6,"Rockville, MD",Active
+EMP-0280,Morgan,Jones,morgan.jones@juradotech.com,Project Coordinator,6,"Rockville, MD",Active
+EMP-0281,Jamie,Johnson,jamie.johnson@juradotech.com,Accounts Payable Specialist,3,"Alexandria, VA",Active
+EMP-0282,Elena,Williams,elena.williams@juradotech.com,Accounts Payable Specialist,3,"Washington, DC",Active
+EMP-0283,Camila,White,camila.white@juradotech.com,Project Coordinator,6,"Alexandria, VA",Active
+EMP-0284,Parker,Lewis,parker.lewis@juradotech.com,Logistics Specialist,6,"Rockville, MD",Active
+EMP-0285,Casey,Torres,casey.torres2@juradotech.com,Operations Coordinator,6,"Alexandria, VA",Active
+EMP-0286,Maya,Moore,maya.moore@juradotech.com,Operations Coordinator,6,"Washington, DC",Active
+EMP-0287,Quinn,Young,quinn.young@juradotech.com,Operations Specialist,6,"Arlington, VA",Active
+EMP-0288,Avery,Taylor,avery.taylor@juradotech.com,HR Specialist,2,"Silver Spring, MD",Active
+EMP-0289,Marco,Jackson,marco.jackson@juradotech.com,Digital Marketing Specialist,5,"Bethesda, MD",Active
+EMP-0290,Casey,Lewis,casey.lewis@juradotech.com,Account Executive,4,"Silver Spring, MD",Active
+EMP-0291,Riley,Lee,riley.lee2@juradotech.com,HR Specialist,2,"Silver Spring, MD",Active
+EMP-0292,Adrian,Jackson,adrian.jackson@juradotech.com,HR Specialist,2,"Bethesda, MD",Active
+EMP-0293,Quinn,White,quinn.white@juradotech.com,Communications Coordinator,5,"Bethesda, MD",Active
+EMP-0294,Reese,Rodriguez,reese.rodriguez@juradotech.com,Support Representative,7,"Arlington, VA",Active
+EMP-0295,Nicolas,Torres,nicolas.torres@juradotech.com,Sales Coordinator,4,"Arlington, VA",Active
+EMP-0296,Nicolas,Rodriguez,nicolas.rodriguez2@juradotech.com,IT Analyst,1,"Washington, DC",Active
+EMP-0297,Daniela,Walker,daniela.walker@juradotech.com,Client Support Specialist,7,"Arlington, VA",Active
+EMP-0298,Gabriel,Jones,gabriel.jones@juradotech.com,Operations Coordinator,6,"Rockville, MD",Active
+EMP-0299,Elena,Robinson,elena.robinson2@juradotech.com,Finance Coordinator,3,"Rockville, MD",Active
+EMP-0300,Nicolas,Nguyen,nicolas.nguyen@juradotech.com,Systems Analyst,1,"Bethesda, MD",Active
+EMP-0301,Morgan,Davis,morgan.davis@juradotech.com,Finance Coordinator,3,"Bethesda, MD",Active
+EMP-0302,Jamie,Lee,jamie.lee@juradotech.com,Accounts Payable Specialist,3,"Rockville, MD",Active
+EMP-0303,Diego,Jackson,diego.jackson@juradotech.com,Operations Analyst,6,"Rockville, MD",Active
+EMP-0304,Nicolas,Moore,nicolas.moore@juradotech.com,Operations Coordinator,6,"Silver Spring, MD",Active
+EMP-0305,Adrian,Garcia,adrian.garcia@juradotech.com,IT Analyst,1,"Silver Spring, MD",Active
+EMP-0306,Julian,Martinez,julian.martinez2@juradotech.com,Content Coordinator,5,"Silver Spring, MD",Active
+EMP-0307,Leo,Perez,leo.perez@juradotech.com,Business Development Representative,4,"Washington, DC",Active
+EMP-0308,Jordan,Garcia,jordan.garcia3@juradotech.com,Operations Analyst,6,"Silver Spring, MD",Active
+EMP-0309,Hayden,Wilson,hayden.wilson@juradotech.com,IT Analyst,1,"Arlington, VA",Active
+EMP-0310,Jordan,Young,jordan.young@juradotech.com,Communications Coordinator,5,"Rockville, MD",Active
+EMP-0311,Blake,Walker,blake.walker@juradotech.com,Content Coordinator,5,"Silver Spring, MD",Active
+EMP-0312,Gabriela,Jones,gabriela.jones@juradotech.com,HR Coordinator,2,"Bethesda, MD",Active
+EMP-0313,Mateo,Robinson,mateo.robinson@juradotech.com,Account Executive,4,"Rockville, MD",Active
+EMP-0314,Maya,Lee,maya.lee@juradotech.com,Logistics Specialist,6,"Arlington, VA",Active
+EMP-0315,Camila,Allen,camila.allen@juradotech.com,Client Support Specialist,7,"Washington, DC",Active
+EMP-0316,Gabriela,Davis,gabriela.davis@juradotech.com,Customer Success Specialist,7,"Arlington, VA",Active
+EMP-0317,Cameron,Brown,cameron.brown@juradotech.com,Logistics Specialist,6,"Arlington, VA",Active
+EMP-0318,Natalia,Thomas,natalia.thomas@juradotech.com,Accounts Payable Specialist,3,"Rockville, MD",Active
+EMP-0319,Maya,Gonzalez,maya.gonzalez2@juradotech.com,Systems Analyst,1,"Arlington, VA",Inactive
+EMP-0320,Gabriela,Young,gabriela.young@juradotech.com,Marketing Analyst,5,"Arlington, VA",Active
+EMP-0321,Daniela,Allen,daniela.allen2@juradotech.com,Benefits Coordinator,2,"Bethesda, MD",Active
+EMP-0322,Isabella,Brown,isabella.brown2@juradotech.com,Marketing Specialist,5,"Rockville, MD",Active
+EMP-0323,Mateo,Jackson,mateo.jackson2@juradotech.com,Client Support Specialist,7,"Washington, DC",Active
+EMP-0324,Lucia,Rodriguez,lucia.rodriguez@juradotech.com,Network Technician,1,"Silver Spring, MD",Active
+EMP-0325,Daniela,White,daniela.white@juradotech.com,Customer Service Representative,7,"Arlington, VA",Active
+EMP-0326,Nicolas,Gonzalez,nicolas.gonzalez@juradotech.com,HR Specialist,2,"Alexandria, VA",Active
+EMP-0327,Valeria,Allen,valeria.allen@juradotech.com,Sales Analyst,4,"Alexandria, VA",Active
+EMP-0328,Marco,Flores,marco.flores@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Inactive
+EMP-0329,Daniela,White,daniela.white2@juradotech.com,Customer Success Specialist,7,"Alexandria, VA",Active
+EMP-0330,Parker,Gonzalez,parker.gonzalez@juradotech.com,Client Support Specialist,7,"Alexandria, VA",Active
+EMP-0331,Taylor,Williams,taylor.williams@juradotech.com,Operations Analyst,6,"Bethesda, MD",Active
+EMP-0332,Mateo,King,mateo.king@juradotech.com,Service Coordinator,7,"Bethesda, MD",Active
+EMP-0333,Lucas,Rodriguez,lucas.rodriguez2@juradotech.com,Customer Success Specialist,7,"Alexandria, VA",Active
+EMP-0334,Daniela,Flores,daniela.flores@juradotech.com,HR Specialist,2,"Alexandria, VA",Active
+EMP-0335,Lucas,Wright,lucas.wright@juradotech.com,Application Support Analyst,1,"Silver Spring, MD",Active
+EMP-0336,Mateo,Johnson,mateo.johnson@juradotech.com,Marketing Analyst,5,"Rockville, MD",Active
+EMP-0337,Natalia,Nguyen,natalia.nguyen@juradotech.com,Accountant,3,"Silver Spring, MD",Active
+EMP-0338,Jordan,Hill,jordan.hill@juradotech.com,Digital Marketing Specialist,5,"Rockville, MD",Inactive
+EMP-0339,Julian,Torres,julian.torres@juradotech.com,Account Executive,4,"Silver Spring, MD",Active
+EMP-0340,Mateo,Hernandez,mateo.hernandez@juradotech.com,Client Support Specialist,7,"Silver Spring, MD",Active
+EMP-0341,Valeria,Martinez,valeria.martinez2@juradotech.com,Account Executive,4,"Washington, DC",Active
+EMP-0342,Avery,Gonzalez,avery.gonzalez@juradotech.com,Sales Representative,4,"Arlington, VA",Active
+EMP-0343,Parker,Clark,parker.clark2@juradotech.com,Systems Analyst,1,"Arlington, VA",Active
+EMP-0344,Marco,Walker,marco.walker@juradotech.com,Operations Analyst,6,"Silver Spring, MD",Active
+EMP-0345,Skyler,Scott,skyler.scott@juradotech.com,Customer Success Specialist,7,"Silver Spring, MD",Active
+EMP-0346,Valeria,Lee,valeria.lee@juradotech.com,Support Representative,7,"Arlington, VA",Active
+EMP-0347,Sofia,Wright,sofia.wright2@juradotech.com,Customer Success Specialist,7,"Silver Spring, MD",Active
+EMP-0348,Hayden,Flores,hayden.flores@juradotech.com,Benefits Coordinator,2,"Bethesda, MD",Active
+EMP-0349,Rowan,Scott,rowan.scott2@juradotech.com,HR Specialist,2,"Bethesda, MD",Active
+EMP-0350,Blake,Jackson,blake.jackson@juradotech.com,Systems Analyst,1,"Silver Spring, MD",Active
+EMP-0351,Maya,Walker,maya.walker@juradotech.com,Network Technician,1,"Alexandria, VA",Active
+EMP-0352,Rowan,Jackson,rowan.jackson@juradotech.com,Marketing Specialist,5,"Alexandria, VA",Active
+EMP-0353,Valeria,Sanchez,valeria.sanchez@juradotech.com,Marketing Analyst,5,"Bethesda, MD",Active
+EMP-0354,Elliot,Garcia,elliot.garcia@juradotech.com,HR Specialist,2,"Arlington, VA",Active
+EMP-0355,Mateo,Wilson,mateo.wilson@juradotech.com,Operations Coordinator,6,"Alexandria, VA",Active
+EMP-0356,Nicolas,Moore,nicolas.moore2@juradotech.com,Support Representative,7,"Washington, DC",Active
+EMP-0357,Julian,Thomas,julian.thomas@juradotech.com,Account Executive,4,"Washington, DC",Active
+EMP-0358,Diego,Anderson,diego.anderson@juradotech.com,Content Coordinator,5,"Washington, DC",Active
+EMP-0359,Sofia,Walker,sofia.walker@juradotech.com,Sales Representative,4,"Silver Spring, MD",Active
+EMP-0360,Alex,Scott,alex.scott@juradotech.com,Content Coordinator,5,"Arlington, VA",Active
+EMP-0361,Mateo,Walker,mateo.walker@juradotech.com,Accounts Payable Specialist,3,"Rockville, MD",Active
+EMP-0362,Morgan,Garcia,morgan.garcia@juradotech.com,Communications Coordinator,5,"Bethesda, MD",Active
+EMP-0363,Taylor,Lopez,taylor.lopez@juradotech.com,Service Coordinator,7,"Bethesda, MD",Active
+EMP-0364,Taylor,Sanchez,taylor.sanchez@juradotech.com,Billing Analyst,3,"Bethesda, MD",Active
+EMP-0365,Elliot,Williams,elliot.williams@juradotech.com,Customer Service Representative,7,"Rockville, MD",Active
+EMP-0366,Cameron,Perez,cameron.perez@juradotech.com,Customer Success Specialist,7,"Arlington, VA",Inactive
+EMP-0367,Adrian,King,adrian.king@juradotech.com,Benefits Coordinator,2,"Bethesda, MD",Active
+EMP-0368,Gabriela,Moore,gabriela.moore2@juradotech.com,Account Executive,4,"Washington, DC",Active
+EMP-0369,Gabriela,Taylor,gabriela.taylor@juradotech.com,Operations Coordinator,6,"Washington, DC",Active
+EMP-0370,Elliot,Torres,elliot.torres@juradotech.com,Account Executive,4,"Bethesda, MD",Active
+EMP-0371,Daniela,Ramirez,daniela.ramirez@juradotech.com,Communications Coordinator,5,"Rockville, MD",Active
+EMP-0372,Cameron,Lopez,cameron.lopez@juradotech.com,Operations Coordinator,6,"Arlington, VA",Active
+EMP-0373,Emerson,Smith,emerson.smith@juradotech.com,Logistics Specialist,6,"Arlington, VA",Active
+EMP-0374,Rowan,Perez,rowan.perez@juradotech.com,Logistics Specialist,6,"Alexandria, VA",Active
+EMP-0375,Alex,Taylor,alex.taylor@juradotech.com,Logistics Specialist,6,"Silver Spring, MD",Active
+EMP-0376,Avery,Robinson,avery.robinson4@juradotech.com,Marketing Analyst,5,"Bethesda, MD",Active
+EMP-0377,Lucas,Martin,lucas.martin@juradotech.com,Financial Analyst,3,"Silver Spring, MD",Active
+EMP-0378,Elliot,White,elliot.white@juradotech.com,IT Analyst,1,"Bethesda, MD",Active
+EMP-0379,Drew,Walker,drew.walker@juradotech.com,Accounts Payable Specialist,3,"Arlington, VA",Active
+EMP-0380,Leo,White,leo.white@juradotech.com,Sales Analyst,4,"Silver Spring, MD",Active
+EMP-0381,Mateo,Wright,mateo.wright@juradotech.com,Account Executive,4,"Bethesda, MD",Active
+EMP-0382,Leo,Garcia,leo.garcia@juradotech.com,Client Support Specialist,7,"Arlington, VA",Active
+EMP-0383,Camila,Jones,camila.jones2@juradotech.com,Finance Coordinator,3,"Washington, DC",Active
+EMP-0384,Nicolas,Allen,nicolas.allen@juradotech.com,Systems Analyst,1,"Alexandria, VA",Active
+EMP-0385,Jamie,Lee,jamie.lee2@juradotech.com,Business Development Representative,4,"Arlington, VA",Active
+EMP-0386,Skyler,Nguyen,skyler.nguyen@juradotech.com,Project Coordinator,6,"Washington, DC",Active
+EMP-0387,Elena,Brown,elena.brown@juradotech.com,Service Coordinator,7,"Bethesda, MD",Active
+EMP-0388,Gabriela,Torres,gabriela.torres@juradotech.com,Marketing Specialist,5,"Alexandria, VA",Active
+EMP-0389,Blake,Johnson,blake.johnson@juradotech.com,Project Coordinator,6,"Rockville, MD",Active
+EMP-0390,Skyler,Nguyen,skyler.nguyen2@juradotech.com,Customer Service Representative,7,"Washington, DC",Active
+EMP-0391,Casey,Wright,casey.wright@juradotech.com,Financial Analyst,3,"Washington, DC",Inactive
+EMP-0392,Mateo,Williams,mateo.williams2@juradotech.com,Customer Success Specialist,7,"Arlington, VA",Active
+EMP-0393,Drew,Clark,drew.clark@juradotech.com,Sales Coordinator,4,"Arlington, VA",Active
+EMP-0394,Valeria,Harris,valeria.harris2@juradotech.com,Customer Service Representative,7,"Silver Spring, MD",Inactive
+EMP-0395,Adrian,Rodriguez,adrian.rodriguez2@juradotech.com,Customer Success Specialist,7,"Washington, DC",Active
+EMP-0396,Adrian,Sanchez,adrian.sanchez@juradotech.com,Client Support Specialist,7,"Bethesda, MD",Active
+EMP-0397,Logan,Smith,logan.smith@juradotech.com,Marketing Specialist,5,"Rockville, MD",Active
+EMP-0398,Adrian,Ramirez,adrian.ramirez@juradotech.com,HR Analyst,2,"Arlington, VA",Active
+EMP-0399,Emerson,Robinson,emerson.robinson@juradotech.com,Customer Success Specialist,7,"Bethesda, MD",Active
+EMP-0400,Avery,Williams,avery.williams@juradotech.com,Project Coordinator,6,"Alexandria, VA",Active
+EMP-0401,Jordan,Thomas,jordan.thomas@juradotech.com,Systems Analyst,1,"Washington, DC",Active
+EMP-0402,Taylor,Lewis,taylor.lewis@juradotech.com,Operations Specialist,6,"Silver Spring, MD",Active
+EMP-0403,Morgan,Thomas,morgan.thomas@juradotech.com,Operations Analyst,6,"Arlington, VA",Active
+EMP-0404,Adrian,Wilson,adrian.wilson@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0405,Elliot,Anderson,elliot.anderson2@juradotech.com,Finance Coordinator,3,"Rockville, MD",Active
+EMP-0406,Maya,Thomas,maya.thomas@juradotech.com,Logistics Specialist,6,"Bethesda, MD",Inactive
+EMP-0407,Diego,Anderson,diego.anderson2@juradotech.com,Billing Analyst,3,"Rockville, MD",Active
+EMP-0408,Nicolas,Nguyen,nicolas.nguyen2@juradotech.com,Account Executive,4,"Silver Spring, MD",Active
+EMP-0409,Nicolas,Young,nicolas.young@juradotech.com,Sales Representative,4,"Rockville, MD",Active
+EMP-0410,Valeria,King,valeria.king@juradotech.com,HR Specialist,2,"Silver Spring, MD",Active
+EMP-0411,Parker,Martin,parker.martin@juradotech.com,Sales Analyst,4,"Bethesda, MD",Active
+EMP-0412,Mateo,Thomas,mateo.thomas@juradotech.com,Operations Coordinator,6,"Rockville, MD",Active
+EMP-0413,Parker,Robinson,parker.robinson@juradotech.com,Sales Representative,4,"Alexandria, VA",Active
+EMP-0414,Natalia,Scott,natalia.scott@juradotech.com,Client Support Specialist,7,"Bethesda, MD",Active
+EMP-0415,Hayden,Wilson,hayden.wilson2@juradotech.com,Customer Success Specialist,7,"Silver Spring, MD",Active
+EMP-0416,Elena,White,elena.white@juradotech.com,IT Support Specialist,1,"Alexandria, VA",Active
+EMP-0417,Reese,Brown,reese.brown@juradotech.com,Customer Success Specialist,7,"Arlington, VA",Active
+EMP-0418,Leo,Williams,leo.williams@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0419,Julian,Scott,julian.scott2@juradotech.com,Accounts Payable Specialist,3,"Arlington, VA",Active
+EMP-0420,Sofia,Martin,sofia.martin@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0421,Avery,Walker,avery.walker@juradotech.com,Accounts Payable Specialist,3,"Silver Spring, MD",Active
+EMP-0422,Skyler,Sanchez,skyler.sanchez@juradotech.com,Operations Coordinator,6,"Alexandria, VA",Active
+EMP-0423,Elliot,Harris,elliot.harris@juradotech.com,Application Support Analyst,1,"Alexandria, VA",Active
+EMP-0424,Blake,Taylor,blake.taylor@juradotech.com,Network Technician,1,"Alexandria, VA",Active
+EMP-0425,Gabriela,Miller,gabriela.miller@juradotech.com,Project Coordinator,6,"Rockville, MD",Active
+EMP-0426,Camila,Lee,camila.lee@juradotech.com,Benefits Coordinator,2,"Washington, DC",Active
+EMP-0427,Logan,Martinez,logan.martinez2@juradotech.com,Marketing Specialist,5,"Rockville, MD",Active
+EMP-0428,Julian,Nguyen,julian.nguyen@juradotech.com,Sales Analyst,4,"Rockville, MD",Active
+EMP-0429,Sofia,Anderson,sofia.anderson@juradotech.com,Project Coordinator,6,"Alexandria, VA",Active
+EMP-0430,Sebastian,Scott,sebastian.scott@juradotech.com,Logistics Specialist,6,"Rockville, MD",Active
+EMP-0431,Sebastian,Young,sebastian.young2@juradotech.com,Service Coordinator,7,"Bethesda, MD",Active
+EMP-0432,Isabella,Hernandez,isabella.hernandez@juradotech.com,Accounts Payable Specialist,3,"Silver Spring, MD",Active
+EMP-0433,Quinn,Wright,quinn.wright2@juradotech.com,Marketing Specialist,5,"Alexandria, VA",Active
+EMP-0434,Casey,Brown,casey.brown@juradotech.com,IT Support Specialist,1,"Arlington, VA",Active
+EMP-0435,Logan,Jones,logan.jones@juradotech.com,Account Executive,4,"Washington, DC",Active
+EMP-0436,Gabriela,White,gabriela.white@juradotech.com,HR Coordinator,2,"Alexandria, VA",Active
+EMP-0437,Marco,Walker,marco.walker2@juradotech.com,Digital Marketing Specialist,5,"Washington, DC",Active
+EMP-0438,Nicolas,Clark,nicolas.clark@juradotech.com,Sales Representative,4,"Washington, DC",Active
+EMP-0439,Rowan,Wright,rowan.wright@juradotech.com,Logistics Specialist,6,"Washington, DC",Active
+EMP-0440,Lucia,Lopez,lucia.lopez@juradotech.com,IT Support Specialist,1,"Washington, DC",Active
+EMP-0441,Emerson,Gonzalez,emerson.gonzalez@juradotech.com,Client Support Specialist,7,"Alexandria, VA",Active
+EMP-0442,Isabella,Moore,isabella.moore@juradotech.com,Billing Analyst,3,"Washington, DC",Active
+EMP-0443,Daniela,Robinson,daniela.robinson@juradotech.com,Operations Specialist,6,"Bethesda, MD",Inactive
+EMP-0444,Logan,Martin,logan.martin@juradotech.com,Sales Representative,4,"Silver Spring, MD",Inactive
+EMP-0445,Taylor,Garcia,taylor.garcia@juradotech.com,Service Coordinator,7,"Arlington, VA",Active
+EMP-0446,Mateo,Brown,mateo.brown@juradotech.com,Sales Representative,4,"Silver Spring, MD",Active
+EMP-0447,Sebastian,Ramirez,sebastian.ramirez@juradotech.com,Network Technician,1,"Alexandria, VA",Inactive
+EMP-0448,Cameron,King,cameron.king2@juradotech.com,Sales Representative,4,"Bethesda, MD",Active
+EMP-0449,Gabriel,Walker,gabriel.walker@juradotech.com,Customer Success Specialist,7,"Washington, DC",Active
+EMP-0450,Rowan,Wright,rowan.wright2@juradotech.com,Client Support Specialist,7,"Silver Spring, MD",Active
+EMP-0451,Maya,Johnson,maya.johnson@juradotech.com,Account Executive,4,"Alexandria, VA",Active
+EMP-0452,Daniela,Jones,daniela.jones@juradotech.com,Logistics Specialist,6,"Bethesda, MD",Active
+EMP-0453,Gabriel,Harris,gabriel.harris2@juradotech.com,Finance Coordinator,3,"Rockville, MD",Active
+EMP-0454,Drew,Garcia,drew.garcia2@juradotech.com,HR Analyst,2,"Silver Spring, MD",Inactive
+EMP-0455,Morgan,Miller,morgan.miller@juradotech.com,Service Coordinator,7,"Bethesda, MD",Active
+EMP-0456,Sofia,Hill,sofia.hill2@juradotech.com,Business Development Representative,4,"Alexandria, VA",Active
+EMP-0457,Maya,Johnson,maya.johnson2@juradotech.com,Customer Success Specialist,7,"Arlington, VA",Active
+EMP-0458,Isabella,Scott,isabella.scott@juradotech.com,Project Coordinator,6,"Arlington, VA",Active
+EMP-0459,Julian,Harris,julian.harris@juradotech.com,HR Coordinator,2,"Alexandria, VA",Active
+EMP-0460,Emerson,Jones,emerson.jones@juradotech.com,Customer Service Representative,7,"Rockville, MD",Active
+EMP-0461,Parker,Harris,parker.harris@juradotech.com,Logistics Specialist,6,"Rockville, MD",Active
+EMP-0462,Alex,Martin,alex.martin@juradotech.com,Application Support Analyst,1,"Rockville, MD",Active
+EMP-0463,Cameron,Rodriguez,cameron.rodriguez@juradotech.com,Customer Service Representative,7,"Bethesda, MD",Active
+EMP-0464,Nicolas,Scott,nicolas.scott2@juradotech.com,Client Support Specialist,7,"Arlington, VA",Active
+EMP-0465,Riley,Thompson,riley.thompson@juradotech.com,Finance Coordinator,3,"Washington, DC",Active
+EMP-0466,Maya,Harris,maya.harris@juradotech.com,Marketing Specialist,5,"Rockville, MD",Active
+EMP-0467,Riley,Scott,riley.scott@juradotech.com,Account Executive,4,"Alexandria, VA",Active
+EMP-0468,Valeria,Hernandez,valeria.hernandez@juradotech.com,Accounts Payable Specialist,3,"Rockville, MD",Active
+EMP-0469,Sebastian,Martinez,sebastian.martinez2@juradotech.com,Sales Representative,4,"Bethesda, MD",Active
+EMP-0470,Natalia,Martin,natalia.martin@juradotech.com,Service Coordinator,7,"Washington, DC",Active
+EMP-0471,Emerson,Young,emerson.young@juradotech.com,Operations Specialist,6,"Alexandria, VA",Active
+EMP-0472,Cameron,Rodriguez,cameron.rodriguez2@juradotech.com,Logistics Specialist,6,"Washington, DC",Active
+EMP-0473,Sofia,Flores,sofia.flores2@juradotech.com,Project Coordinator,6,"Rockville, MD",Active
+EMP-0474,Lucia,Hill,lucia.hill@juradotech.com,Accounts Payable Specialist,3,"Rockville, MD",Active
+EMP-0475,Reese,Walker,reese.walker@juradotech.com,Marketing Analyst,5,"Bethesda, MD",Inactive
+EMP-0476,Maya,Jackson,maya.jackson2@juradotech.com,Application Support Analyst,1,"Alexandria, VA",Active
+EMP-0477,Maya,Harris,maya.harris2@juradotech.com,Logistics Specialist,6,"Arlington, VA",Active
+EMP-0478,Gabriel,Gonzalez,gabriel.gonzalez4@juradotech.com,Communications Coordinator,5,"Alexandria, VA",Active
+EMP-0479,Nicolas,Johnson,nicolas.johnson2@juradotech.com,Billing Analyst,3,"Silver Spring, MD",Active
+EMP-0480,Elliot,Jones,elliot.jones@juradotech.com,Billing Analyst,3,"Silver Spring, MD",Active
+EMP-0481,Blake,Thomas,blake.thomas@juradotech.com,Network Technician,1,"Silver Spring, MD",Active
+EMP-0482,Lucia,Harris,lucia.harris@juradotech.com,IT Support Specialist,1,"Arlington, VA",Inactive
+EMP-0483,Mateo,Nguyen,mateo.nguyen@juradotech.com,Application Support Analyst,1,"Alexandria, VA",Active
+EMP-0484,Natalia,Wright,natalia.wright@juradotech.com,Sales Representative,4,"Rockville, MD",Active
+EMP-0485,Adrian,Hill,adrian.hill2@juradotech.com,Marketing Specialist,5,"Washington, DC",Active
+EMP-0486,Isabella,Hernandez,isabella.hernandez2@juradotech.com,IT Analyst,1,"Washington, DC",Active
+EMP-0487,Daniela,Perez,daniela.perez@juradotech.com,Digital Marketing Specialist,5,"Washington, DC",Active
+EMP-0488,Hayden,Anderson,hayden.anderson@juradotech.com,Client Support Specialist,7,"Silver Spring, MD",Active
+EMP-0489,Julian,Torres,julian.torres2@juradotech.com,Support Representative,7,"Arlington, VA",Active
+EMP-0490,Gabriela,Nguyen,gabriela.nguyen@juradotech.com,Operations Specialist,6,"Bethesda, MD",Active
+EMP-0491,Jordan,Walker,jordan.walker@juradotech.com,IT Support Specialist,1,"Rockville, MD",Active
+EMP-0492,Riley,Davis,riley.davis@juradotech.com,Operations Coordinator,6,"Rockville, MD",Active
+EMP-0493,Gabriela,Wilson,gabriela.wilson@juradotech.com,HR Analyst,2,"Arlington, VA",Active
+EMP-0494,Cameron,Lewis,cameron.lewis3@juradotech.com,Billing Analyst,3,"Rockville, MD",Active
+EMP-0495,Taylor,Davis,taylor.davis@juradotech.com,Financial Analyst,3,"Rockville, MD",Active
+EMP-0496,Jamie,Thomas,jamie.thomas@juradotech.com,Finance Coordinator,3,"Bethesda, MD",Active
+EMP-0497,Sofia,Scott,sofia.scott2@juradotech.com,Project Coordinator,6,"Arlington, VA",Active
+EMP-0498,Daniela,Lopez,daniela.lopez@juradotech.com,Systems Analyst,1,"Silver Spring, MD",Active
+EMP-0499,Daniela,Johnson,daniela.johnson@juradotech.com,HR Analyst,2,"Bethesda, MD",Active
+EMP-0500,Lucia,Harris,lucia.harris2@juradotech.com,Operations Analyst,6,"Silver Spring, MD",Active
