@@ -97,4 +97,8 @@ Relationships were created using primary and foreign keys to support service des
 
 This portfolio project demonstrates how SQL, data visualization, and business analysis can be combined to investigate IT service operations and communicate actionable findings to management.
 
+## Power BI Dashboard
+
+![IT Service Management Dashboard](dashboard_portfolio.png)
+
 > **Note:** This project uses simulated data created for portfolio and educational purposes.
